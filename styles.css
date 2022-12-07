@@ -77,78 +77,123 @@
 
   .comment1 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment2 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment3 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment4 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment5 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment6 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment7 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment8 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment9 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment10 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment11 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment12 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment13 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment14 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comment15 {
     position: relative;
-    width: 560px;
+    width: 100%;
+    font-size: 0.8vw;
     line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .insta {
@@ -172,19 +217,19 @@
   .button3 {
     position: absolute;
     top: 50%;
-    left: 35%;
+    left: 34%;
   }
   
   .button4 {
     position: absolute;
     top: 19%;
-    left: 34.6%;
+    left: 34%;
   }
   
   .button5 {
     position: absolute;
     top: 19%;
-    left: 43%;
+    left: 42%;
   }
   
   .button6 {
@@ -202,31 +247,31 @@
   .button8 {
     position: absolute;
     top: 60%;
-    left: 33%;
+    left: 32%;
   }
   
   .button9 {
     position: absolute;
     top: 19%;
-    left: 61.8%;
+    left: 61%;
   }
   
   .button10 {
     position: absolute;
     top: 80%;
-    left: 36%;
+    left: 35%;
   }
 
   .button11 {
     position: absolute;
     top: 39%;
-    left: 26%;
+    left: 25%;
   }
 
   .button12 {
     position: absolute;
     top: 73%;
-    left: 36%;
+    left: 35%;
   }
 
   .button13 {
@@ -272,10 +317,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
-    overflow: hidden;
-    overflow-y: scroll;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal.active {
@@ -283,7 +327,7 @@
   }
   
   .modal-header {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -291,7 +335,7 @@
   }
   
   .modal-header .title {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -356,8 +400,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal2.active {
@@ -365,7 +410,7 @@
   }
   
   .modal-header2 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -373,7 +418,7 @@
   }
   
   .modal-header2 .title2 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -436,8 +481,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal3.active {
@@ -445,7 +491,7 @@
   }
   
   .modal-header3 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -453,7 +499,7 @@
   }
   
   .modal-header3 .title3 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -516,8 +562,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal4.active {
@@ -525,7 +572,7 @@
   }
   
   .modal-header4 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -533,7 +580,7 @@
   }
   
   .modal-header4 .title4 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -595,8 +642,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal5.active {
@@ -604,7 +652,7 @@
   }
   
   .modal-header5 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -612,7 +660,7 @@
   }
   
   .modal-header5 .title5 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -674,8 +722,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal6.active {
@@ -683,7 +732,7 @@
   }
   
   .modal-header6 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -691,7 +740,7 @@
   }
   
   .modal-header6 .title6 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -752,8 +801,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal7.active {
@@ -761,7 +811,7 @@
   }
   
   .modal-header7 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -769,7 +819,7 @@
   }
   
   .modal-header7 .title7 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -830,8 +880,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal8.active {
@@ -839,7 +890,7 @@
   }
   
   .modal-header8 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -847,7 +898,7 @@
   }
   
   .modal-header8 .title8 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -908,8 +959,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal9.active {
@@ -917,7 +969,7 @@
   }
   
   .modal-header9 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -925,7 +977,7 @@
   }
   
   .modal-header9 .title9 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -987,8 +1039,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal10.active {
@@ -996,7 +1049,7 @@
   }
   
   .modal-header10 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1004,7 +1057,7 @@
   }
   
   .modal-header10 .title10 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -1068,8 +1121,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal11.active {
@@ -1077,7 +1131,7 @@
   }
   
   .modal-header11 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1085,7 +1139,7 @@
   }
   
   .modal-header11 .title11 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -1149,8 +1203,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal12.active {
@@ -1158,7 +1213,7 @@
   }
   
   .modal-header12 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1166,7 +1221,7 @@
   }
   
   .modal-header12 .title12 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -1229,8 +1284,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal13.active {
@@ -1238,7 +1294,7 @@
   }
   
   .modal-header13 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1246,7 +1302,7 @@
   }
   
   .modal-header13 .title13 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -1308,8 +1364,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal14.active {
@@ -1317,7 +1374,7 @@
   }
   
   .modal-header14 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1325,7 +1382,7 @@
   }
   
   .modal-header14 .title14 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
@@ -1388,8 +1445,9 @@
     border-radius: 10px;
     z-index: 10;
     background-color: white;
-    width: 600px;
-    max-width: 80%;
+    width: 35%;
+    height: auto;
+    max-height: 85%;
   }
   
   .modal15.active {
@@ -1397,7 +1455,7 @@
   }
   
   .modal-header15 {
-    padding: 15px 15px;
+    padding: 1vw 1vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1405,7 +1463,7 @@
   }
   
   .modal-header15 .title15 {
-    font-size: 1.25rem;
+    font-size: 1vw;
     font-weight: bold;
   }
   
